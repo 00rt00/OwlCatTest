@@ -20,6 +20,11 @@
 			"Name": "BlueprintAssist",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/9e895371fa3a471c87337860d6f341ff"
+		},
+		{
+			"Name": "Tether",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6af7e44eb9594b56b6530ca7a9ebf799"
 		}
 	]
 }
